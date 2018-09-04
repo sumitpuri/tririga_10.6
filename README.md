@@ -17,7 +17,7 @@ Post your Docker ID to get access to TRIRIGA Image.
 Proceed below once access is granted.
 
 ### Step 5: 
-Follow the instructions shown in the [video](https://youtu.be/pPA6_ljyFQg)
+Follow the instructions shown in the [YouTube video](https://youtu.be/pPA6_ljyFQg).
 
 <br />
 
