@@ -1,7 +1,7 @@
 # TRIRIGA 10.6 Docker Image local install using Kitematic
 
 ### Step 1: 
-Download and install Docker for [Mac](https://download.docker.com/mac/stable/Docker.dmg) or [Windows 10](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe) 
+Download and install Docker for [Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac) or [Windows 10](https://hub.docker.com/editions/community/docker-ce-desktop-windows) 
 
 ### Step 2: 
 Click [here](https://hub.docker.com/?next=https%3A%2F%2Fhub.docker.com%2F) to create a Docker ID.
