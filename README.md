@@ -1,4 +1,4 @@
-# TRIRIGA 10.6 Docker Image local install using Kitematic
+# TRIRIGA 10.6/10.5.3.x Docker Image local install using Kitematic
 
 ### Step 1: 
 Download and install Docker for [Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac) or [Windows 10](https://hub.docker.com/editions/community/docker-ce-desktop-windows) 
@@ -20,6 +20,20 @@ Proceed below once access is granted.
 Follow the instructions shown in the [YouTube video](https://youtu.be/pPA6_ljyFQg).
 
 <br />
+
+### 10.5.3.x installation
+
+If the account has been provisioned for 10.5.3.x, the base docker image is <br/>
+Platform - 3.5.3.3
+Application - 10.5.3
+
+Import below OM packages packages manually for the desired Application versions:
+
+[10.5.3.1]()
+[10.5.3.2]()
+[10.5.3.3]()
+[10.5.3.4]()
+[10.5.3.5]()
 
 #### For any questions, post on [#tririga_docker](https://ibm-tririga.slack.com/messages/CBBLDA5QU/) Slack channel or contact:
 
