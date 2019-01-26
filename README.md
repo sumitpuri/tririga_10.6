@@ -19,21 +19,20 @@ Proceed below once access is granted.
 ### Step 5: 
 Follow the instructions shown in the [YouTube video](https://youtu.be/pPA6_ljyFQg).
 
-<br />
 
 ### 10.5.3.x installation
 
 If the account has been provisioned for 10.5.3.x, the base docker image is <br/>
-Platform - 3.5.3.3
+Platform - 3.5.3.3 <br/>
 Application - 10.5.3
 
 Import below OM packages packages manually for the desired Application versions:
 
-[10.5.3.1](https://github.ibm.com/sumit-puri/docker10.5.3.x/blob/master/TRIRIGA_10_5_3_1.zip)
-[10.5.3.2](https://github.ibm.com/sumit-puri/docker10.5.3.x/blob/master/TRIRIGA_10_5_3_2.zip)
-[10.5.3.3]()
-[10.5.3.4]()
-[10.5.3.5](https://github.ibm.com/sumit-puri/docker10.5.3.x/blob/master/TRIRIGA_10_5_3_5.zip)
+[10.5.3.1](https://github.ibm.com/sumit-puri/docker10.5.3.x/blob/master/TRIRIGA_10_5_3_1.zip) <br/>
+[10.5.3.2](https://github.ibm.com/sumit-puri/docker10.5.3.x/blob/master/TRIRIGA_10_5_3_2.zip) <br/>
+[10.5.3.3]() <br/>
+[10.5.3.4]() <br/>
+[10.5.3.5](https://github.ibm.com/sumit-puri/docker10.5.3.x/blob/master/TRIRIGA_10_5_3_5.zip) <br/>
 
 #### For any questions, post on [#tririga_docker](https://ibm-tririga.slack.com/messages/CBBLDA5QU/) Slack channel or contact:
 
