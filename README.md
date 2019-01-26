@@ -22,9 +22,7 @@ Follow the instructions shown in the [YouTube video](https://youtu.be/pPA6_ljyFQ
 
 ### 10.5.3.x installation
 
-If the account has been provisioned for 10.5.3.x, the base docker image is <br/>
-Platform - 3.5.3.3 <br/>
-Application - 10.5.3
+If the Docker ID has been provisioned for 10.5.3.x, the base docker image is 10.5.3.0(application)/3.5.3.3(platform) <br/>
 
 Import below OM packages packages manually for the desired Application versions:
 
